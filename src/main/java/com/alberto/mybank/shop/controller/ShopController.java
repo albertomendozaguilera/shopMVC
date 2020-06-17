@@ -51,7 +51,7 @@ public class ShopController {
         paymentTransactionsDTO.setConcept("Asus Zenbook Pro Duo");
         paymentTransactionsDTO.setDatetime("2020-06-17");
         paymentTransactionsDTO.setDestinyAccount("ES2412345678098765432109");
-        paymentTransactionsDTO.setQuantity(1399d);
+        paymentTransactionsDTO.setQuantity(-1399d);
         paymentTransactionsDTO.setOriginAccount("MyBankShop");
 
 
